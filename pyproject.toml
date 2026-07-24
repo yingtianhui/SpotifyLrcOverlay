@@ -1,0 +1,13 @@
+[project]
+name = "spotify-lrc-overlay"
+version = "0.1.0"
+description = "Windows transparent Spotify LRC overlay built with Python and PySide6."
+requires-python = ">=3.10"
+dependencies = [
+    "PySide6>=6.7,<7",
+    "requests>=2.32,<3",
+    "winsdk>=1.0.0b10",
+]
+
+[tool.ruff]
+line-length = 100

@@ -1,0 +1,4 @@
+PySide6>=6.7,<7
+requests>=2.32,<3
+winsdk>=1.0.0b10
+pyinstaller>=6.8,<7
